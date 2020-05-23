@@ -725,6 +725,11 @@ mongodb@3.3.2:
     require_optional "^1.0.1"
     safe-buffer "^5.1.2"
 
+mongose@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/mongose/-/mongose-1.0.2.tgz#c414ebf6b12956c210f0ed7b9e28ac0f69fe9ca8"
+  integrity sha512-EAb5o/8peCPnQAyIZTicxUMDogEs8f+Gb1FXBQg80QCU8nT6k/IhQf8QWdIDMXe+d83RVwbmDyMwMEujaxoT4Q==
+
 ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
